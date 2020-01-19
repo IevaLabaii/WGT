@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+}
+.App {
+  background-color: brown;
+}
+#to-do-form input{
+  margin: 20px;
+  padding: 10px;
+  background-color: rgb(214, 122, 127);
+}
+#to-do-form button {
+  background-color: rgb(255, 255, 128);
+  cursor: pointer;
+  font-weight: bold;
+  color: hsla(50, 33%, 25%, .75);
+}
